@@ -9,7 +9,7 @@ Você pode entrar em contato comigo por meio das minhas redes:
 
 Sou uma pessoa muito curiosa e que gosta de descobrir o funcionamento das coisas, o que me fez buscar mais formas de me desenvolver com cursos na área de programação.
 
-Amo estudar programação e ver meu avanço na área! É realmente muito gratificante! Mas, hoje, eu quero desafios maiores para continuar me desenvolvendo.
+Amo estudar e ver meu avanço na área de programação! É muito gratificante! Mas, hoje, eu quero desafios maiores para continuar me desenvolvendo.
 Estou em busca de oportunidades como desenvolvedora front-end ou na área de segurança e governança.
 
 Alguns conhecimentos:
